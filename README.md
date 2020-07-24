@@ -25,6 +25,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%231a202c?style=flat-square&logo=bootstrap&color=purple)
 
 ## 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
 
