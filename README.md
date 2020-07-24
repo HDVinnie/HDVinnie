@@ -1,3 +1,11 @@
+<div align="center">
+	<br>
+	<a href="https://github.com/HDVinnie/HDVinnie/blame/master/header.svg">
+		<img src="header.svg" width="800" height="300">
+	</a>
+	<br>
+</div>
+  
 ## 🅼🆈 🆃🅴🅲🅷 🆂🆃🅰🅲🅺
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -25,4 +33,3 @@
 ## 🆅🅸🆂🅸🆃🅾🆁🆂
 
 [![Visits Badge](https://badges.pufler.dev/visits/HDVinnie/HDVinnie)](https://badges.pufler.dev)
-
