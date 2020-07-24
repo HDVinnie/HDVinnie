@@ -1,3 +1,3 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/HDVinnie/HDVinnie/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://github.com/HDVinnie/HDVinnie/blob/master/wave.gif?raw=true" width="30px">
 
 
