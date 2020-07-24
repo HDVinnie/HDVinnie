@@ -33,7 +33,7 @@
 
 ## 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
 
-*NOTE: GitHub Stats does not indicate all my work i have done in my HDInnovations organization.* 
+*NOTE: GitHub Stats does not indicate all my work I have done in my HDInnovations organization.* 
 
 ![HDVinnie github stats](https://github-readme-stats.vercel.app/api?username=HDVinnie&show_icons=true&theme=tokyonight)
 
