@@ -21,14 +21,9 @@
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
 ## 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
+*NOTE: GitHub Stats does not indicate all my work i have done in my HDInnovations organization.* 
 
 ![HDVinnie github stats](https://github-readme-stats.vercel.app/api?username=HDVinnie&show_icons=true&theme=tokyonight)
-
-## 🅻🅰🅽🅶🅰🆄🅶🅴🆂 🆄🆂🅴🅳 🅾🅽 🅶🅸🆃🅷🆄🅱
-
-**NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HDVinnie)](https://github.com/HDVinnie/github-readme-stats)
 
 ## 🆅🅸🆂🅸🆃🅾🆁🆂
 
