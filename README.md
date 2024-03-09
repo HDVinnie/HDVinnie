@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm HDVinnie</h1>
-<h3 align="center">A passionate FOSS developer</h3>
+<h3 align="center">A passionate Laravel developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hdvinnie&label=Profile%20views&color=0e75b6&style=flat" alt="hdvinnie" /> </p>
 
-- 🔭 I’m currently working on [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition)
-
-- 🤝 I’m looking for help with [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition)
+- 🔭 I’m currently working on UNIT3D Sponsor Edition
 
 - 💬 Ask me about **Laravel, Livewire and AlpineJS**
 
