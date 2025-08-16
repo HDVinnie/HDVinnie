@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=27&pause=500&width=575&lines=Im+HDVinnie!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+# Hey There! Welcome to my GitHub Profile.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=HDVinnie&color=blueviolet&style=flat-square)](https://github.com/HDVinnie)
 [![GitHub followers](https://img.shields.io/github/followers/HDVinnie?style=flat-square&color=blue)](https://github.com/HDVinnie)
@@ -16,6 +16,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![NativePHP](https://img.shields.io/badge/NativePHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
